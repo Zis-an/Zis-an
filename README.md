@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Zis-an
+- 👋 Hi, I’m Zisan
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning PHP Frameworks
-- 💞️ I’m looking to collaborate on advanced things
+- 💞️ I’m looking to collaborate on advanced things.
 - 📫 How to reach me -> Facebook Profile Link: https://www.facebook.com/zahidulislam.zisan/
 
 <!---
