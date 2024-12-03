@@ -42,9 +42,9 @@ LinkedIn: Zahidul Islam Zisan
 </p>
 
 <h3 align="left">🛠️ Skills and Tools:</h3>
-**Backend**: Laravel, Laravel Websockets, RESTful API, MVC, PHP, JavaScript, Java. 
-**Frontend**: Vue.js, React, Bootstrap, Tailwind CSS, AJAX, JavaScript, HTML, CSS.
-**Programming Languages**: C, C++, Java, PHP. 
+<p align="left">**Backend**: Laravel, Laravel Websockets, RESTful API, MVC, PHP, JavaScript, Java.</p>
+<p align="left">**Frontend**: Vue.js, React, Bootstrap, Tailwind CSS, AJAX, JavaScript, HTML, CSS.</p>
+<p align="left">**Programming Languages**: C, C++, Java, PHP.</p>
 <p align="left">
   <a href="https://laravel.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" />
